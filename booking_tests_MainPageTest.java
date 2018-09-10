@@ -1,6 +1,6 @@
 package com.booking.tests;
 
-import com.booking.pages.MainPage;
+import src.MainPage;
 import com.booking.pages.ResultPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
