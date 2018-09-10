@@ -1,12 +1,10 @@
-package com.booking.tests;
-
-import src.MainPage;
-import com.booking.pages.ResultPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import MainPage;
+import ResultPage;
 
 import java.util.concurrent.TimeUnit;
 
